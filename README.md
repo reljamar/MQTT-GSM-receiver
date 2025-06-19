@@ -21,7 +21,7 @@ The module is Quectel's BC660K-GL. This is one of the cheapest GMS modules avail
 The antenna is the weak link, and much care is needed when routing the antenna signal, even if an external antenna is used. Impedance control is very important here.
 
 <p align="center">
-<img src="images/soldering.jpg" alt="Soldering" width="45%"/>
+<img src="images/soldering-crop.jpg" alt="Soldering" width="45%"/>
 <img src="images/top-3D.png" alt="3D model" width="45%"/>
 </p>
 
